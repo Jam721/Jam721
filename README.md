@@ -90,8 +90,6 @@ Backend разработчик
 
 ![Bebekon's Github Stats](https://github-readme-stats.vercel.app/api?username=Jam721&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jam721&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jam721&&style=flat-square" align="center" />
