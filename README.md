@@ -12,9 +12,9 @@ Backend разработчик
 
 - :telescope: Создал игру головоломку на C# с использованием Unity для школьного проекта.
 
-- :seedling: Прохожу курсы на ulearn.me!
+- :seedling: Прошел курсы по C# на ulearn.me!
 
-- :zap: Учусь в университете МГТУ имени Н.Э. Баумана на ИУ5.
+- :zap: Учусь в университете МГТУ имени Н.Э. Баумана.
 
 - :mailbox: Как связаться со мной:
   <a href="https://t.me/Bebekon1240">
@@ -76,14 +76,6 @@ Backend разработчик
 
 
 </td></tr></table>  
-
-## Мои последние работы
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jam721&repo=ViktorKorneplod&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jam721/ViktorKorneplod) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jam721&repo=Cubes-And-Colors&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jam721/Cubes-And-Colors)
-
-## 💻 Codewars: 
-
-![codewars](https://www.codewars.com/users/Jam721/badges/large)
-
 
 
 ## 📊 GitHub статистика
