@@ -10,6 +10,17 @@ FullStack-разработчик
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
+:mailbox: **Контакты для связи**:  
+<a href="https://t.me/Bebekon1240">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram" />
+</a>
+<a href="https://vk.com/kupiotday">
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="20" height="20" alt="VK"/>
+</a>
+<a href="mailto:arturqweasd@yandex.ru">
+  <img src="https://www.pinclipart.com/picdir/big/172-1724749_email-us-atlantic-city-logo-clipart.png" width="20" height="20" alt="Email"/>
+</a>
+
 ### Ключевые достижения:
 🏆 **Победа в хакатоне от Wildberries**  
 - Разработал микросервис для обработки больших CSV-данных с кастомной валидацией и обработкой ошибок в реальном времени  
@@ -62,17 +73,8 @@ FullStack-разработчик
 `Entity Framework` `LINQ` `REST API` `Web API` `Docker Compose` `Unit Testing` `Оптимизация БД` 
 `Рефакторинг` `Асинхронная обработка` `Микросервисная архитектура`
 
-:mailbox: **Контакты для связи**:  
-<a href="https://t.me/Bebekon1240">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram" />
-</a>
-<a href="https://vk.com/kupiotday">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="20" height="20" alt="VK"/>
-</a>
-<a href="mailto:arturqweasd@yandex.ru">
-  <img src="https://www.pinclipart.com/picdir/big/172-1724749_email-us-atlantic-city-logo-clipart.png" width="20" height="20" alt="Email"/>
-</a>
 
 <p align="center">
  <img alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 </p>
+
