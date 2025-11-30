@@ -76,10 +76,3 @@ FullStack-разработчик
 <p align="center">
  <img alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 </p>
-
-## 📊 GitHub статистика
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jam721&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jam721&&style=flat-square" align="center" />
-</div>
